@@ -351,3 +351,5 @@ HNSW paper:
 ```
 
 The update algorithm supported in this repository is to be published in "Dynamic Updates For HNSW, Hierarchical Navigable Small World Graphs" US Patent 15/929,802 by Apoorv Sharma, Abhishek Tayal and Yury Malkov.
+
+measure difference between hnsw and knowhere faiss hnsw
